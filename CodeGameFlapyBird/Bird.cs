@@ -10,7 +10,8 @@ using WMPLib;
 
 namespace CodeGameFlapyBird
 {
-    // Lớp chim
+    // Lớp chim xanh
+    
     internal class Bird
     {
         public PictureBox Bird_;
